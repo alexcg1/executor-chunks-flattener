@@ -1,2 +1,5 @@
 manifest_version: 1
 name: ChunkFlattener
+description: "Flattens a Documents chunks to one level"
+url: https://github.com/alexcg1/executor-chunks-flattener
+keywords: [chunks, flatten]
